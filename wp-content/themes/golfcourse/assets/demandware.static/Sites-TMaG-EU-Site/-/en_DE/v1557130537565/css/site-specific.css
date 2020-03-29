@@ -1,0 +1,93 @@
+.quickview.ui-dialog .ui-dialog-content {
+	padding-bottom: 40px;
+}
+
+/** email sign-up **/
+
+.pt_customer-service .email-sign-up .tooltip.gift {
+	display:none;
+}
+
+.pt_customer-service .email-sign-up .birthday .label,
+.pt_customer-service .email-sign-up .gender .label {
+	display: inline-block;
+	text-align: right;
+	width: 18%;
+	vertical-align: middle;
+	margin-right: 14px;
+}
+
+.pt_customer-service .email-sign-up .gender .label {
+	line-height: 37px;
+	vertical-align: top;
+}
+
+/* brands styles */
+.form-adidasgolf .birthday .form-row label{margin-right:2px;}
+.form-taylormade .birthday .form-row label{margin-right:20px;}
+
+/** end of email sign-up **/
+
+@media screen and (max-width: 988px) and (min-width: 768px) {
+	
+	
+	/** email sign-up **/
+	
+	.customerservice-form .form-indent, .customerservice-form .form-row.form-indent {
+	    margin-left: 20.5%;
+	}
+	
+	.pt_customer-service .email-sign-up .birthday label{
+		margin-right:0;
+	}
+	
+	.pt_customer-service .email-sign-up .day .ffSelectWrapper,
+	.pt_customer-service .email-sign-up .month .ffSelectWrapper,
+	.pt_customer-service .email-sign-up .year .ffSelectWrapper {
+		width:59px;
+	}
+	
+	/** end of email sign-up **/
+}
+
+@media screen and (max-width: 767px) {
+	
+	/** email sign-up **/
+	
+	.customerservice-form .signup-label {
+		margin-left: 0px;
+	}
+	
+	.pt_customer-service .email-sign-up .form-caption {
+		padding-left:0px;
+	}
+	
+	.pt_customer-service .email-sign-up .birthday .label,
+	.pt_customer-service .email-sign-up .gender .label {
+		display: block;
+		text-align: left;
+		margin: 0px 10px 15px 10px;
+	}
+	
+	.pt_customer-service .email-sign-up .gender .label {
+		line-height: 100%;
+		margin-bottom: 0.5em 2%;
+	}
+	
+	.pt_customer-service .email-sign-up .birthday label{
+		display:none;
+	}
+	.pt_customer-service .email-sign-up .birthday,
+	.pt_customer-service .email-sign-up .gender {
+		margin-bottom:10px;
+	}
+	
+	.pt_customer-service .email-sign-up .ffSelectWrapper {
+		margin:0.5em 0;
+	}
+	
+	.form-adidasgolf .month,.form-adidasgolf .year,.form-adidasgolf .day{margin-right:9px;}
+	
+	/** end of email sign-up **/
+
+}

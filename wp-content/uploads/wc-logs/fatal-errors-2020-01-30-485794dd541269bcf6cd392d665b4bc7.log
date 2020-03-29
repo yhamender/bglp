@@ -1,0 +1,22 @@
+2020-01-30T10:52:42+00:00 CRITICAL syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/functions.php on line 940
+
+2020-01-30T11:23:53+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::last_query() in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/functions.php:803
+Stack trace:
+#0 /var/www/clients/client2/web21/web/wp-includes/class-wp-hook.php(286): fetch_confirm('')
+#1 /var/www/clients/client2/web21/web/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/clients/client2/web21/web/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/clients/client2/web21/web/wp-admin/admin-ajax.php(114): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/functions.php on line 803
+
+2020-01-30T12:16:43+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::last_query() in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/functions.php:800
+Stack trace:
+#0 /var/www/clients/client2/web21/web/wp-includes/class-wp-hook.php(286): fetch_confirm('')
+#1 /var/www/clients/client2/web21/web/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/clients/client2/web21/web/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/clients/client2/web21/web/wp-admin/admin-ajax.php(114): do_action('wp_ajax_nopriv_...')
+#4 {main}
+  thrown in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/functions.php on line 800
+
+2020-01-30T12:33:35+00:00 CRITICAL syntax error, unexpected end of file in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/functions.php on line 2169
+

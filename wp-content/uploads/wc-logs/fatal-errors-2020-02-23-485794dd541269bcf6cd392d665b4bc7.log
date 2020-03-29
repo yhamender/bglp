@@ -1,0 +1,16 @@
+2020-02-23T19:24:47+00:00 CRITICAL syntax error, unexpected 'wp_redirect' (T_STRING) in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/home.php on line 9
+
+2020-02-23T19:25:18+00:00 CRITICAL syntax error, unexpected 'wp_redirect' (T_STRING) in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/home.php on line 9
+
+2020-02-23T19:25:33+00:00 CRITICAL syntax error, unexpected 'wp_redirect' (T_STRING) in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/home.php on line 9
+
+2020-02-23T19:25:35+00:00 CRITICAL syntax error, unexpected 'wp_redirect' (T_STRING) in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/home.php on line 9
+
+2020-02-23T19:25:45+00:00 CRITICAL syntax error, unexpected 'wp_redirect' (T_STRING) in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/home.php on line 9
+
+2020-02-23T19:25:47+00:00 CRITICAL syntax error, unexpected 'wp_redirect' (T_STRING) in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/home.php on line 9
+
+2020-02-23T19:30:08+00:00 CRITICAL syntax error, unexpected 'wp_redirect' (T_STRING) in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/home.php on line 9
+
+2020-02-23T19:30:10+00:00 CRITICAL syntax error, unexpected 'wp_redirect' (T_STRING) in /var/www/clients/client2/web21/web/wp-content/themes/golfcourse/home.php on line 9
+
